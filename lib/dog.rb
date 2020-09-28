@@ -21,7 +21,8 @@ end
   end  
   
   def self.clear_all
-    @@all.
+    @@all.clear
+  end 
 
   
   
