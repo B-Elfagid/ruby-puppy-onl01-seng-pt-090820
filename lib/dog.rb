@@ -12,6 +12,8 @@ def self.all
 end 
 
 def self.print_all
+  @songs.each {|song| puts song.name|
+end 
   
   
   
