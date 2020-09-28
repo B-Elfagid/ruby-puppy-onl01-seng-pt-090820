@@ -16,7 +16,7 @@ def self.all
 end 
 
 def self.print_all
- @songs.each{|song| puts song.name}
+ @dogs.each{|dog| puts dog.name}
 end 
 
   
